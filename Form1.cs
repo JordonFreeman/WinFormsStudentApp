@@ -19,7 +19,7 @@ namespace WinFormApp
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            lblTest.Text = "Successfully Submitted";
+            lblTest.Text = "Successful";
         }
     }
 }
